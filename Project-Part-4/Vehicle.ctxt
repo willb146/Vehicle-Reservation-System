@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Test\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=scanner
+comment1.target=void\ readData(java.util.Scanner)
+comment2.params=
+comment2.target=java.lang.String\ getGroup()
+comment3.params=
+comment3.target=java.lang.String\ getVehID()
+comment4.params=
+comment4.target=java.lang.String\ getRegNo()
+comment5.params=
+comment5.target=java.lang.String\ getMake()
+comment6.params=
+comment6.target=void\ printDetails()
+numComments=7

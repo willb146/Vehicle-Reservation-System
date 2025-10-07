@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Diary
+comment0.text=\r\n\ A\ class\ Diary\ that\ represents\ a\ "diary"\ of\ vehicle\ reservations.\r\n\ \r\n\ The\ diary\ is\ structured\ as\ a\ Map\ of\ entries\ in\ which\ each\ entry\ corresponds\ \r\n\ to\ a\ specific\ day.\ \ As\ the\ map\ is\ not\ accessed\ in\ a\ sequential\ fashion,\ it\r\n\ doesn't\ matter\ whether\ the\ actual\ map\ class\ is\ a\ TreeMap\ or\ a\ HashMap.\r\n\r\n\ @author\ D\ E\ Newton\r\n\ \r\n
+comment1.params=
+comment1.target=Diary()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Diary\r\n
+comment2.params=startDate\ endDate
+comment2.target=void\ printEntries(java.util.Date,\ java.util.Date)
+comment2.text=\r\n\ Method\ for\ displaying\ the\ reservations\ between\ specified\ dates.\ \r\n\r\n\ @parameter\ \ \ \ \ startDate,\ of\ type\ Date\r\n\ @parameter\ \ \ \ \ endDate,\ of\ type\ Date\r\n
+numComments=3
